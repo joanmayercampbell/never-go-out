@@ -1,0 +1,27 @@
+﻿body {
+    background-color:burlywood;
+    font-family:sans-serif;
+    font-size:medium;
+}
+ul  {
+    list-style-position:inside;
+    text-align:center; 
+    list-style-type:none; 
+  
+}
+li::first-letter{
+     font-size:x-large;
+}
+.copyright {    
+    font-size:smaller;
+}
+h1 {
+    border-bottom: 5px dotted;
+}
+#wrap {
+    padding:0 10px;
+    margin:0 25%;
+    border:5px dotted;
+    background-color:white;
+}
+
