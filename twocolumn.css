@@ -9,9 +9,23 @@ ul  {
     list-style-type:none; 
   
 }
-li::first-letter{
-     font-size:x-large;
+.pickerspace {
+    float:left;
+    width:200px;
+    margin:10px;
 }
+.sonnetspace1 {
+    float:right;
+    width:300px;
+    margin:10px;
+}
+
+.sonnetspace2 {
+    float:right;
+    width:300px;
+    margin:10px;
+}
+
 .copyright {    
     font-size:smaller;
 }
