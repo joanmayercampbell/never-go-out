@@ -1,5 +1,5 @@
 ﻿body {
-    background-color:lightblue;
+    background-color:#364371:;
     font-family:sans-serif;
     font-size:medium;
 }
@@ -9,22 +9,22 @@ ul  {
     list-style-type:none; 
   
 }
-.pickerspace {
+nav{
+    background-color:#b0ffff;
     float:left;
-    width:200px;
-    margin:10px;
-}
-.sonnetspace1 {
-    float:right;
-    width:300px;
-    margin:10px;
+    width:20%;    
 }
 
-.sonnetspace2 {
+article{
+    background-color:aqua;
     float:right;
-    width:300px;
-    margin:10px;
+    width:80%
 }
+
+main {
+    background-color:yellow;
+}
+
 
 .copyright {    
     font-size:smaller;
